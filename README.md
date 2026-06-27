@@ -40,6 +40,7 @@ Claude · OpenAI / GPT · LangChain · LangGraph · RAG · vector databases · P
 ### Get in touch
 
 - **Upwork:** [My Upwork profile](REPLACE_WITH_YOUR_UPWORK_URL)
+- **LinkedIn:** (https://www.linkedin.com/in/manan-kalaria-48963017b/)
 - **Email:** manankalaria97@gmail.com
 
 *Open to freelance AI consulting and agent/automation projects.*
